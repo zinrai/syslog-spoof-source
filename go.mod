@@ -4,5 +4,5 @@ go 1.26.4
 
 require (
 	github.com/gopacket/gopacket v1.7.4
-	golang.org/x/sys v0.48.0
+	golang.org/x/sys v0.49.0
 )
